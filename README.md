@@ -1,4 +1,5 @@
 # Future Ready Talent Project
+> Demo Url : https://wonderful-beach-06ae11010.2.azurestaticapps.net
 
 
 I created a game using HTML,JAVASCRIPT... And CSS. It is a web development game and user friendly. It Create's Fun Between the user and the game while playing this game.
