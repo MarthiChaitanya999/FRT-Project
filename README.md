@@ -3,10 +3,11 @@
 
 
 I created a game using HTML,JAVASCRIPT...CSS And Azure Technology In My Project. It is a web development game and user friendly. It Create's Fun Between the user and the game while playing this game.
-I Have Used Azure Technoloy #Chatbot And Static Web In My Project.
+# I Have Used Azure Technoloy #Chatbot And Static Web In My Project.
 
 My project First page Interface
-![image](https://user-images.githubusercontent.com/115967790/198081045-2936e5f8-03ce-4dfc-a645-e4d96b043366.png) 
+![image](https://user-images.githubusercontent.com/115967790/202675479-935c84a2-c0b8-4831-bedf-7f3f23dd06e6.png)
+
 like this the game will run you can choose one of the insect in the insect list and next...
 ![image](https://user-images.githubusercontent.com/115967790/202675259-fc28446d-c93d-4c41-83da-1bd4e464a977.png)
 
