@@ -2,7 +2,9 @@
 > Demo Url : https://wonderful-beach-06ae11010.2.azurestaticapps.net
 
 
-I created a game using HTML,JAVASCRIPT... And CSS. It is a web development game and user friendly. It Create's Fun Between the user and the game while playing this game.
+I created a game using HTML,JAVASCRIPT...CSS And Azure Technology In My Project. It is a web development game and user friendly. It Create's Fun Between the user and the game while playing this game.
+I Have Used Azure Technoloy #Chatbot And Static Web In My Project.
+
 My project First page Interface
 ![image](https://user-images.githubusercontent.com/115967790/198081045-2936e5f8-03ce-4dfc-a645-e4d96b043366.png) 
 like this the game will run you can choose one of the insect in the insect list and next...
