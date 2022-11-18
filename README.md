@@ -8,7 +8,8 @@ I Have Used Azure Technoloy #Chatbot And Static Web In My Project.
 My project First page Interface
 ![image](https://user-images.githubusercontent.com/115967790/198081045-2936e5f8-03ce-4dfc-a645-e4d96b043366.png) 
 like this the game will run you can choose one of the insect in the insect list and next...
-![game 1](https://user-images.githubusercontent.com/115967790/198084515-674dc9b8-a99a-41de-9925-f0f65a6bbbf2.png)
+![image](https://user-images.githubusercontent.com/115967790/202675259-fc28446d-c93d-4c41-83da-1bd4e464a977.png)
+
 and next we are moving into the game in this game  that insect.. we can click one insect(butterfly)..
 ![game 2](https://user-images.githubusercontent.com/115967790/198085898-f61f032b-5eb8-4400-bf0b-8a0e11d58dee.png)
 and next it goes by 2 butterflys(insect)...
